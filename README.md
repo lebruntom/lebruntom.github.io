@@ -1,3 +1,4 @@
+<div id="top"></div>
 <div align="center">
   <img src="https://github.com/lebruntom/TOMUS/blob/master/img/logo.png">
 </div>
@@ -16,3 +17,14 @@ Quand vous validé votre essai
         - Une case jaune, signifie que la lettre est dans le mot, mais mal placée.
         <br>
         - Une case bleue signifie que la lettre n'est pas dans le mot.
+        
+  
+## Installation
+        
+## Contact
+
+Tom Lebrun - [@tom-lebrun](https://www.linkedin.com/in/tom-lebrun/) - tomlebrun27@gmail.com
+
+Lien du projet : [https://github.com/lebruntom/Comeleon](https://github.com/lebruntom/Comeleon)
+
+<p align="right">(<a href="#top">Retour en haut</a>)</p>
