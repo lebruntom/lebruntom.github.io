@@ -1,6 +1,12 @@
 <div id="top"></div>
 <div align="center">
   <img src="https://github.com/lebruntom/TOMUS/blob/master/img/logo.png">
+
+  <p align="center">
+    <a href="https://github.com/lebruntom/TOMUS/issues">Signaler un Bug</a>
+    ·
+    <a href="https://github.com/lebruntom/TOMUS/issues">Demander une nouvelle fonctionnalitée</a>
+  </p>
 </div>
 <br>
 
@@ -25,6 +31,6 @@ Quand vous validé votre essai
 
 Tom Lebrun - [@tom-lebrun](https://www.linkedin.com/in/tom-lebrun/) - tomlebrun27@gmail.com
 
-Lien du projet : [https://github.com/lebruntom/Comeleon](https://github.com/lebruntom/Comeleon)
+Lien du projet : [https://github.com/lebruntom/TOMUS](https://github.com/lebruntom/Comeleon)
 
 <p align="right">(<a href="#top">Retour en haut</a>)</p>
