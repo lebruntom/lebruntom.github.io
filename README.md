@@ -8,7 +8,7 @@
 Vous avez 6 essais pour deviner un mot pioché dans notre dictionnaire.
 <br>
 Pour vous aider, la première lettre de ce mot vous est donnée.
-            <br>
+            <br><br>
 Quand vous validé votre essai 
 <br>
         - Une case rouge, signifie que la lettre est bien placée.
