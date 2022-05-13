@@ -1,1 +1,3 @@
-<center><img src="https://github.com/lebruntom/TOMUS/blob/master/img/logo.png"></center>
+<div align="center">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/logo.png">
+</div>
