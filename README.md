@@ -2,7 +2,9 @@
   <img src="https://github.com/lebruntom/TOMUS/blob/master/img/logo.png">
 </div>
 <br>
+
 ## Règles
+
 Vous avez 6 essais pour deviner un mot pioché dans notre dictionnaire.
 Pour vous aider, la première lettre de ce mot vous est donnée.
             <br>
