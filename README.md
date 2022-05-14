@@ -25,12 +25,37 @@ Quand vous validé votre essai
         - Une case bleue signifie que la lettre n'est pas dans le mot.
         
   
+## Captures du jeu
+
+<div align="center">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/interface1.png" style="width:700px;">
+    <img src="https://github.com/lebruntom/TOMUS/blob/master/img/interface2.png" style="width:700px;">
+
+    <img src="https://github.com/lebruntom/TOMUS/blob/master/img/inerface3.png" style="width:700px;">
+
+  </div>
+
 ## Installation
-        
+
+<p>Téléchargez le zip du projet.</p>
+<div align="center">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/download.png" style="width:700px;">
+  </div>
+<p>Ouvrez le fichier "index.html" et amusez vous !</p>
+  <div align="center">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/open.png" style="width:300px;">
+  </div>
+
+
+## Explication
+
+Ce projet à été développé en vanilla dans le but de s'améliorer en javascript.
+Projet basé sur SUTOM et Motus.
+
 ## Contact
 
 Tom Lebrun - [@tom-lebrun](https://www.linkedin.com/in/tom-lebrun/) - tomlebrun27@gmail.com
 
-Lien du projet : [https://github.com/lebruntom/TOMUS](https://github.com/lebruntom/Comeleon)
+Lien du projet : [https://github.com/lebruntom/TOMUS](https://github.com/lebruntom/TOMUS)
 
 <p align="right">(<a href="#top">Retour en haut</a>)</p>
