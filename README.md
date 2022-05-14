@@ -46,7 +46,7 @@ Quand vous validé votre essai
   </div>
 
 
-## Explication
+## Explications
 
 Ce projet à été développé en vanilla dans le but de s'améliorer en javascript.
 Projet basé sur SUTOM et Motus.
