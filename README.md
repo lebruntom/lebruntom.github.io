@@ -25,6 +25,16 @@ Quand vous validé votre essai
         - Une case bleue signifie que la lettre n'est pas dans le mot.
         
   
+## Captures du jeu
+
+<div align="center">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/interface1.png" style="width:700px;">
+    <img src="https://github.com/lebruntom/TOMUS/blob/master/img/interface2.png" style="width:700px;">
+
+    <img src="https://github.com/lebruntom/TOMUS/blob/master/img/inerface3.png" style="width:700px;">
+
+  </div>
+
 ## Installation
 
 <p>Téléchargez le zip du projet.</p>
