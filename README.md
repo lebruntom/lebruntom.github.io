@@ -29,11 +29,11 @@ Quand vous validé votre essai
 
 <p>Téléchargez le zip du projet.</p>
 <div align="center">
-  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/download.png" style="width:500px;">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/download.png" style="width:700px;">
   </div>
 <p>Ouvrez le fichier "index.html" et amusez vous !</p>
   <div align="center">
-  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/open.png" style="width:500px;">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/open.png" style="width:300px;">
   </div>
 
 
