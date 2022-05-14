@@ -26,6 +26,14 @@ Quand vous validé votre essai
         
   
 ## Installation
+
+Téléchargez le zip du projet.
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/download.png">
+  
+Ouvrez le fichier "index.html" et amusez vous !
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/open.png">
+
+
         
 ## Contact
 
