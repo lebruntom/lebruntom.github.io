@@ -37,11 +37,15 @@ Quand vous validé votre essai
   </div>
 
 
-        
+## Explication
+
+Ce projet à été développé en vanilla dans le but de s'améliorer en javascript.
+Projet basé sur SUTOM et Motus.
+
 ## Contact
 
 Tom Lebrun - [@tom-lebrun](https://www.linkedin.com/in/tom-lebrun/) - tomlebrun27@gmail.com
 
-Lien du projet : [https://github.com/lebruntom/TOMUS](https://github.com/lebruntom/Comeleon)
+Lien du projet : [https://github.com/lebruntom/TOMUS](https://github.com/lebruntom/TOMUS)
 
 <p align="right">(<a href="#top">Retour en haut</a>)</p>
