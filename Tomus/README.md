@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center">
-  <img src="https://github.com/lebruntom/lebruntom.github.io/blob/master/Tomus/img/logo.png">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/logo.png">
 
   <p align="center">
     <a href="https://github.com/lebruntom/TOMUS/issues">Signaler un Bug</a>
@@ -9,10 +9,6 @@
   </p>
 </div>
 <br>
-
-## Demo 
-
-https://lebruntom.github.io/Tomus/
 
 ## Règles
 
@@ -32,9 +28,10 @@ Quand vous validé votre essai
 ## Captures du jeu
 
 <div align="center">
-  <img src="https://github.com/lebruntom/lebruntom.github.io/blob/master/Tomus/img/interface1.png" style="width:700px;">
-    <img src="https://github.com/lebruntom/lebruntom.github.io/blob/master/Tomus/img/interface2.png" style="width:700px;">
-    <img src="https://github.com/lebruntom/lebruntom.github.io/blob/master/Tomus/img/interface3.png" style="width:700px;">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/interface1.png" style="width:700px;">
+    <img src="https://github.com/lebruntom/TOMUS/blob/master/img/interface2.png" style="width:700px;">
+
+    <img src="https://github.com/lebruntom/TOMUS/blob/master/img/interface3.png" style="width:700px;">
 
   </div>
 
@@ -42,15 +39,15 @@ Quand vous validé votre essai
 
 <p>Téléchargez le zip du projet.</p>
 <div align="center">
-  <img src="https://github.com/lebruntom/lebruntom.github.io/blob/master/Tomus/img/download.png" style="width:700px;">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/download.png" style="width:700px;">
   </div>
 <p>Ouvrez le fichier "index.html" et amusez vous !</p>
   <div align="center">
-  <img src="https://github.com/lebruntom/lebruntom.github.io/blob/master/Tomus/img/open.png" style="width:300px;">
+  <img src="https://github.com/lebruntom/TOMUS/blob/master/img/open.png" style="width:300px;">
   </div>
 
 
-## Explications
+## Explication
 
 Ce projet à été développé en vanilla dans le but de s'améliorer en javascript.
 Projet basé sur SUTOM et Motus.
