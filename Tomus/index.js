@@ -17,7 +17,7 @@ if(localStorage.getItem('theme') == 2){
 
 //retourne les données d'un documents texte 
 var rawFile = new XMLHttpRequest();
-rawFile.open("GET", 'https://raw.githubusercontent.com/lebruntom/TOMUS/master/mots.txt', false);
+rawFile.open("GET", 'https://raw.githubusercontent.com/lebruntom/lebruntom.github.io/master/Tomus/mots.txt', false);
 rawFile.onreadystatechange = function ()
 {        
   let array = rawFile.responseText.split('\n');       
