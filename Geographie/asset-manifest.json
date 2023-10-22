@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d4f0ecea.css",
+    "main.js": "./static/js/main.f353af29.js",
+    "static/media/regions.png": "./static/media/regions.e04d33cd6644638890e8.png",
+    "static/media/departements.png": "./static/media/departements.4c9fa3a090f533805835.png",
+    "static/media/poppins-bold.woff": "./static/media/poppins-bold.e37c7988db631fa4cd3f.woff",
+    "static/media/poppins-regular.woff": "./static/media/poppins-regular.cd9e18e805c14360af09.woff",
+    "static/media/poppins-light.woff": "./static/media/poppins-light.d89fdedd6586f0a5789b.woff",
+    "static/media/logo.svg": "./static/media/logo.42526f2fb42ea904ee3f5d40578d266e.svg",
+    "index.html": "./index.html",
+    "main.d4f0ecea.css.map": "./static/css/main.d4f0ecea.css.map",
+    "main.f353af29.js.map": "./static/js/main.f353af29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f0ecea.css",
+    "static/js/main.f353af29.js"
+  ]
+}
