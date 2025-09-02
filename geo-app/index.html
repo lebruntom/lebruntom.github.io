@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- PWA Meta Tags -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no"
+    />
+    <meta name="theme-color" content="#f5f3f0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Geo Jeu" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- SEO Meta Tags -->
+    <title>Geo Jeu - Quiz de Géographie Interactif</title>
+    <meta
+      name="description"
+      content="Testez vos connaissances en géographie avec des quiz interactifs et des cartes. Jeu éducatif mobile-first."
+    />
+    <meta
+      name="keywords"
+      content="géographie, quiz, jeu, éducation, cartes, mobile"
+    />
+
+    <!-- Icons -->
+    <link rel="icon" type="image/svg+xml" href="/icon.png" />
+    <link rel="apple-touch-icon" href="/icon.png" />
+    <link rel="mask-icon" href="/icon.png" color="#2563eb" />
+
+    <!-- Manifest -->
+    <link rel="manifest" href="/manifest.json" />
+
+    <!-- Preload critical resources -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <script type="module" crossorigin src="/assets/index-CyeoED2G.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BaxCMfzQ.css">
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <!-- Service Worker Registration -->
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker
+            .register("/sw.js")
+            .then((registration) => {
+              console.log("SW registered: ", registration);
+            })
+            .catch((registrationError) => {
+              console.log("SW registration failed: ", registrationError);
+            });
+        });
+      }
+    </script>
+  </body>
+</html>
